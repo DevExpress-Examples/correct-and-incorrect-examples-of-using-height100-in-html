@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head >
+	<title>All HTML elements have 100% height (correct solution)</title>
+	<style type="text/css">
+		html, body, form
+		{
+			height: 100%;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+		}
+
+		div
+		{
+			border: 5px solid;
+		}
+	</style>
+</head>
+<body>
+	<form >
+		<div style="height: 100%; border-color: red">
+			Parent 0 
+			<div style="height: 100%; border-color: green">
+				Parent 1
+				<div style="height: 100%; border-color: blue">
+					Parent 2
+					<div style="height: 100%; border-color: #FF9900">
+						Your content here.<br />
+						All HTML elements on this page have height = 100% style applied directly or via CSS rules. This is a correct way to apply 100% height (or any other relative height) to a required HTML element (the orange 'div' in this example)
+						<br />
+						<a href="Default.aspx">Back</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</form>
+</body>
+</html>
