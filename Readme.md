@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CorrectSolution.html](./CS/WebSite/CorrectSolution.html) (VB: [CorrectSolution.html](./VB/WebSite/CorrectSolution.html))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [InvalidCase1.html](./CS/WebSite/InvalidCase1.html) (VB: [InvalidCase1.html](./VB/WebSite/InvalidCase1.html))
+* [InvalidCase2.html](./CS/WebSite/InvalidCase2.html) (VB: [InvalidCase2.html](./VB/WebSite/InvalidCase2.html))
+* [InvalidCase3.html](./CS/WebSite/InvalidCase3.html) (VB: [InvalidCase3.html](./VB/WebSite/InvalidCase3.html))
+* [InvalidCase4.html](./CS/WebSite/InvalidCase4.html) (VB: [InvalidCase4.html](./VB/WebSite/InvalidCase4.html))
+<!-- default file list end -->
 # Correct and incorrect examples of using height=100% in HTML
 
 
