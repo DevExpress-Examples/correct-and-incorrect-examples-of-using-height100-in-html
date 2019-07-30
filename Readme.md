@@ -10,7 +10,7 @@
 <!-- default file list end -->
 # Correct and incorrect examples of using height=100% in HTML
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4942)**
+**[[Run Online]](https://codecentral.devexpress.com/e4942/)**
 <!-- run online end -->
 
 
