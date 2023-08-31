@@ -9,8 +9,9 @@
 <!-- run online end -->
 
 DevExpress ASP.NET controls do not support the full-screen feature out of the box (except for [ASPxSplitter](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxSplitter.FullscreenMode)).
-If you set a control’s height to 100%, it will collapse instead of expanding to the page height.
-This is due to technological limitations. To set a relative height for an HTML element, **all** its parent HTML elements must have the `height` style initialized. Note that `<html>`, `<body>`, and `<form>` tags are also parent containers and their height should also be initialized (directly or in CSS rules).
+If you set a control’s height to 100%, it will collapse instead of expanding to the page height. This is due to technological limitations. 
+
+To set a relative height for an HTML element, **all** its parent HTML elements must have the `height` style initialized. Note that `<html>`, `<body>`, and `<form>` tags are also parent containers and their height should also be initialized (directly or in CSS rules).
 
 ```
 html, body, form
