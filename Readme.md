@@ -6,7 +6,7 @@
 
 # Relative height (100%) in DevExpress ASP.NET and DevExtreme controls
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4942/)**
+**[[Run Online]](https://codecentral.devexpress.com/128565944/)**
 <!-- run online end -->
 
 DevExpress ASP.NET controls do not support the full-screen feature out of the box (except for [ASPxSplitter](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxSplitter.FullscreenMode)).
