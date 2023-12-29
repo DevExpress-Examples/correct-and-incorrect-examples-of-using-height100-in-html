@@ -5,9 +5,6 @@
 <!-- default badges end -->
 
 # Relative height (100%) in DevExpress ASP.NET and DevExtreme controls
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128565944/)**
-<!-- run online end -->
 
 DevExpress ASP.NET controls do not support the full-screen feature out of the box (except for [ASPxSplitter](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxSplitter.FullscreenMode)).
 If you set a control’s height to 100%, it will collapse instead of expanding to the page height. This is due to technological limitations. 
